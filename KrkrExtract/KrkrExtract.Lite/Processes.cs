@@ -52,7 +52,7 @@ namespace KrkrExtract.Lite
                         continue;
                     }
 
-                    proc.IconImage = Icon.ExtractAssociatedIcon(proc.FullProcPath);
+//                     proc.IconImage = Icon.ExtractAssociatedIcon(proc.FullProcPath);
                     proc.Status = ProcessView.AnalysisStatus.Analyzing;
                     procView.Add(proc);
                 }
