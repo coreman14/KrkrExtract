@@ -1,0 +1,4 @@
+^C:\USERS\RCGAM\DOCUMENTS\PROJECTS\KRKREXTRACT\KRKREXTRACT\ZLIB\CONTRIB\MASMX86\INFFAS32.ASM
+ml /coff /Zi /c /safeseh /FlRelease\inffas32.lst /Fo Release\inffas32.obj contrib\masmx86\inffas32.asm
+^C:\USERS\RCGAM\DOCUMENTS\PROJECTS\KRKREXTRACT\KRKREXTRACT\ZLIB\CONTRIB\MASMX86\MATCH686.ASM
+ml /coff /Zi /c /safeseh /FlRelease\match686.lst /Fo Release\match686.obj contrib\masmx86\match686.asm

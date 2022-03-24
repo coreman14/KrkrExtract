@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\rcgam\\documents\\projects\\krkrextract\\krkrextract\\krkrextract.core\\xp3parser.ixx",
+        "ProvidedModule": "Xp3Parser",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -507,6 +507,7 @@
     <None Include="PatchLoader.exe" />
     <None Include="KrkrUniversalPatch.dll" />
     <None Include="tvpwin64.exe" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Manifest Include="win.manifest" />
